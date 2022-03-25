@@ -1,0 +1,71 @@
+body,h1,h2,h3,h4,h5,h6,p,a,span{
+    font-family: 'Poppins';
+}
+.header{
+    background-color: #FFF2E1;
+    height: 67%;
+}
+.nav-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.02em;
+    margin-top: 8px;
+    margin-right: 10px;
+}
+.header-heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 81px;
+    margin-top: 120px!IMPORTANT;
+}
+.header-heading-scnd{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 160%;
+    color: #464646;
+}
+.btn3{
+    width: 220px;
+    height: 80px;
+    left: 140px;
+    top: 659px;
+    background: #F48C06;
+    border-radius: 80px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    border: none;
+}
+.sub-hed h6{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #595959;
+}
+.sub-hed p{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #545567;
+}
+.btn4{
+    width: 130px;
+    height: 40px;
+    background: #D8587E;
+    border-radius: 80px;
+    border: none;
+    color: white;
+}
